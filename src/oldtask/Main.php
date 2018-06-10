@@ -14,6 +14,7 @@ class Main extends PluginBase
 {
     public function onEnable()
     {
-        $this->getLogger()->info("OldTaskを読み込みました。\n使い方は https://github.com/InkoHX/OldTaskPlugin を見て下さい。");
+        $this->getLogger()->info("OldTaskを読み込みました。");
+        $this->getLogger()->info("使い方は https://github.com/InkoHX/OldTaskPlugin を見て下さい。");
     }
 }
