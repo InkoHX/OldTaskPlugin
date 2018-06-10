@@ -1,0 +1,4 @@
+name: ATestTask
+api: 3.0.0-ALPHA12
+version: 1.0.0
+main: Task\Main
