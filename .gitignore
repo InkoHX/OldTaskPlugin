@@ -23,3 +23,13 @@
 /app/Config/core.php
 /app/Config/database.php
 /vendors/*
+.idea/misc.xml
+.idea/modules.xml
+.idea/OldTaskPlugin.iml
+.idea/php.xml
+.idea/vcs.xml
+.idea/workspace.xml
+.php_cs.cache
+composer.json
+composer.phar
+DevTools.phar
